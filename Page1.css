@@ -25,7 +25,7 @@ body{
 
 .container-day{
 	display: grid;
-	grid-template-columns: repeat(7, 207px 143px 143px 143px 143px 207px 207px 247px);
+	grid-template-columns: 207px 143px 143px 143px 143px 207px 207px 247px;
 	Height: 64px;
 	background-color: rgba(164, 164, 164, 0.54);
 }
@@ -56,13 +56,13 @@ body{
 
 .container-img{
 	display: grid;
-	grid-template-columns: repeat(8, 207px 143px 143px 143px 143px 207px 207px 247px);
+	grid-template-columns: 207px 143px 143px 143px 143px 207px 207px 247px;
 	width: 143px;
 }
 
 .container-info{
 	display: grid;
-	grid-template-columns: repeat(3, 390px 661px 389px);
+	grid-template-columns: 390px 661px 389px;
 	height: 411px;
 }
 
