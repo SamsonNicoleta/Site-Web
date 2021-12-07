@@ -90,4 +90,46 @@
 	border-radius: 20px;
 }
 
+.war-list{
+	width: 854px;
+	height: 210px;
+	font-family: Roboto;
+	font-weight: bold;
+	font-size: 34px;
+	line-height: 42px;
+	text-align: center;
+	color: #FCF0F0;
+}
 
+.container-bottom{
+	display: flex;
+	flex-wrap: wrap;
+	width: 1366px;
+	height: 468px;
+}
+
+.recipe-block{
+	width: 342px;
+	height: 360px;
+	background: #A5A5A5;
+}
+
+.reciep-title{
+	font-family: Roboto;
+	font-weight: bold;
+	font-size: 24px;
+	text-align: center;
+}
+
+.reciep-text{
+	width: 321px;
+	height: 224px;
+	font-family: Roboto;
+	font-weight: bold;
+	font-size: 24px;
+	text-align: center;
+}
+
+.img-width{
+	width: 340px
+}
