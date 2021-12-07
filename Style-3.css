@@ -80,3 +80,24 @@
 	margin-top: 45px;
 }
 
+.warning-block{
+	display: flex;
+	justify-content: center;
+	width: 1012px;
+	height: 226px;
+	margin-left: 160px;
+	background: #000000;
+	border-radius: 20px;
+}
+
+.war-list{
+	width: 854px;
+	height: 210px;
+	font-family: Roboto;
+	font-weight: bold;
+	font-size: 34px;
+	line-height: 42px;
+	text-align: center;
+	color: #FCF0F0;
+}
+
