@@ -1,0 +1,37 @@
+body{
+	width: 1366px;
+	height: 3210px;
+}
+
+.contianer-top{
+	display: flex;
+	flex-wrap: wrap;
+	height: 986px;
+}
+
+.img-top{
+	width: 725px;
+	height: 487px;
+}
+
+.title-1 p{
+	font-family: Roboto;
+	font-weight: bold;
+	font-size: 96px;
+	text-align: center;
+	text-transform: capitalize;
+}
+
+.title-1{
+	width: 641px;
+	height: 487px;
+	background-color: #4C8CCA;
+}
+
+.info-block{
+	width: 725px;
+	height: 499px;
+	background-color: #4C8CCA;
+}
+
+
